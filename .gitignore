@@ -4,5 +4,8 @@ node_modules
 # sass cache
 .sass-cache
 
+# `.css` origines are `.scss` files
+**/*.css
+
 # bower things
 bower_components
